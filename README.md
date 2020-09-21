@@ -1,1 +1,1 @@
-https://savrick.github.io/rsschool-cv/cv
+https://savrick.github.io/rsschool-cv/cv.md
