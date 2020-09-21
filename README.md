@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Savrick.github.io/rsschool-cv/cv
+https://Savrick.github.io/rsschool-cv/md
